@@ -270,6 +270,7 @@ textarea.glass-input {
     font-family: "Caacupe One", sans-serif;
     justify-content: center;
     align-items: center;
+    font-size: 2vw;
     gap: 2vw;
     padding: 10px;
     display: flex;
