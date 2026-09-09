@@ -1,3 +1,7 @@
+:root{
+    background: radial-gradient(royalblue , mediumorchid);
+
+}
 hr{
   border: 0.5vw double aqua; ;
   border-radius: 1vw;
@@ -284,4 +288,11 @@ textarea.glass-input {
   }
   .nav :hover{
     color: cornflowerblue;
+  }
+  .rights{
+    margin: auto;
+    font-family: "Caacupe One", sans-serif;
+    font-size: 1.3vw;
+    text-shadow:0.2vw 0.2vw 0.5vw ;
+
   }
